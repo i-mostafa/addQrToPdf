@@ -1,0 +1,29 @@
+{
+  "name": "addqrtopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "download-pdf": "^0.1.6",
+    "fs": "^0.0.1-security",
+    "node-xlsx": "^0.17.1",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.16.0",
+    "qrcode": "^1.4.4",
+    "tinyurl": "^1.1.7"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-mostafa/addQrToPdf.git"
+  },
+  "author": "islammostafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-mostafa/addQrToPdf/issues"
+  },
+  "homepage": "https://github.com/i-mostafa/addQrToPdf#readme"
+}
